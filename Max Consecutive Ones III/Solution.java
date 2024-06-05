@@ -5,7 +5,7 @@ public class Solution {
         int[] nums = { 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0 };
         int k = 2;
         int solution = longestOnes(nums, k);
-        System.out.println("Longes ones: " + solution);
+        System.out.println("Longest ones: " + solution);
     }
 
     public static int longestOnes(int[] nums, int k) {
