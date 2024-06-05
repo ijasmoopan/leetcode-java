@@ -21,11 +21,12 @@ public class Solution {
                 }
                 l++;
             } else {
-                if (maxLen < (r-l+1)) {
-                    maxLen = r-l+1;
+                if (maxLen < (r - l + 1)) {
+                    maxLen = r - l + 1;
                     zIdx = l;
                     while (l < nums.length) {
-                        if (nums[zIdx] == 0) break;
+                        if (nums[zIdx] == 0)
+                            break;
                         zIdx++;
                     }
                 }
@@ -37,8 +38,9 @@ public class Solution {
 }
 
 /*
- * Longest Continuous Sequence (Max Consecutive Ones II) 
- * Given an array of 0s and 1s, write a function to return the position of 0 followed by the longest continuous sequence of 1s.
+ * Longest Continuous Sequence (Max Consecutive Ones II)
+ * Given an array of 0s and 1s, write a function to return the position of 0
+ * followed by the longest continuous sequence of 1s.
  * 
  * Example 1:
  * Array = { 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1 }
