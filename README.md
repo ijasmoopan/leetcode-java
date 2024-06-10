@@ -3,8 +3,8 @@ This repository contains solutions to various LeetCode problems implemented in J
 
 ### Arrays
 1. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Two%20Sum/Solution.java'>Two Sum</a>
-2. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Majority%20Element/Solution.java'>Majority Element</a>
-3. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Move%20Zeros/Solution.java'>Move Zeros</a>
+2. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Move%20Zeros/Solution.java'>Move Zeros</a>
+3. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Majority%20Element/Solution.java'>Majority Element</a>
 4. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Squares%20of%20a%20Sorted%20Array/Solution.java'>Squares of a Sorted Array</a>
 5. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Minimum%20Size%20Subarray%20Sum/Solution.java'>Minimum Size Subarray Sum</a>
 6. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Merge%20Sorted%20Array/Solution.java'>Merge Sorted Array</a>
