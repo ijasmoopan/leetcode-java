@@ -7,7 +7,7 @@ This repository contains solutions to various LeetCode problems implemented in J
 3. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Move%20Zeros/Solution.java'>Move Zeros</a>
 4. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Squares%20of%20a%20Sorted%20Array/Solution.java'>Squares of a Sorted Array</a>
 5. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Minimum%20Size%20Subarray%20Sum/Solution.java'>Minimum Size Subarray Sum</a>
-6. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Merge%20Sorted%20Array/Solution.java'>Merge Sorteed Array</a>
+6. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Merge%20Sorted%20Array/Solution.java'>Merge Sorted Array</a>
 7. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Max%20Consecutive%20Ones/Solution.java'>Max Consecutive Ones</a>
 8. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Max%20Consecutive%20Ones%20II/Solution.java'>Max Consecutive Ones II</a>
 9. <a href='https://github.com/ijasmoopan/leetcode-java/blob/master/Max%20Consecutive%20Ones%20III/Solution.java'>Max Consecutive Ones III</a>
