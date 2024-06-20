@@ -38,7 +38,7 @@
 public class Solution {
 
     public static void main(String[] args) {
-        int[] nums = { 1, 2, 3, 0, 0, 0 };
+        int[] nums = { 1, 1, 1, 2, 2, 3 };
         int k = removeDuplicates(nums);
         System.out.println("Output: " + k);
         for (int i : nums) {
